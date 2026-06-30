@@ -29,9 +29,11 @@ A simple Java socket-based chat application with GUI clients and a server for re
    javac *.java
 
 2. Start the server:
+   ```bash
    `java Server`
 
 3. Start one or more clients:
+   ```bash
    `java ClientGUI`
 
 4. Enter a username and connect to the server to begin chatting.
